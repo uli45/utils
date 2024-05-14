@@ -1,0 +1,19 @@
+{
+  "name": "uli-utils",
+  "version": "1.0.0",
+  "description": "uli的前端工具库",
+  "main": "index.ts",
+  "keywords": [
+    "uli",
+    "前端工具",
+    "库"
+  ],
+  "scripts": {
+    "doc": "typedoc --options ./typedoc.json"
+  },
+  "author": "小孩子能有什么烦恼呢",
+  "license": "MIT",
+  "dependencies": {
+    "typedoc": "^0.25.13"
+  }
+}
